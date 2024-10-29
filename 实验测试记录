@@ -1,0 +1,2 @@
+1.README阅读
+（1）训练策略：we recommend you use L2 loss for the first 600 epochs and L1 loss for the last 200 epochs
